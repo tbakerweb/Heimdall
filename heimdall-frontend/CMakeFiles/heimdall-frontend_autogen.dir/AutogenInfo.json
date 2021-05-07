@@ -1,0 +1,307 @@
+{
+	"BUILD_DIR" : "C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/heimdall-frontend_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend",
+	"CMAKE_EXECUTABLE" : "C:/msys64/mingw64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/CMakeLists.txt",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"C:/msys64/mingw64/share/cmake-3.20/Modules/CMakeParseArguments.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5EventDispatcherSupport/Qt5EventDispatcherSupportConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5EventDispatcherSupport/Qt5EventDispatcherSupportConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5FontDatabaseSupport/Qt5FontDatabaseSupportConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5FontDatabaseSupport/Qt5FontDatabaseSupportConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Svg/Qt5SvgConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Svg/Qt5SvgConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"C:/msys64/mingw64/share/cmake-3.20/Modules/CMakeParseArguments.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5VirtualKeyboard/Qt5VirtualKeyboardConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5VirtualKeyboard/Qt5VirtualKeyboardConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Quick/Qt5QuickConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Quick/Qt5QuickConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5QmlModels/Qt5QmlModelsConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5QmlModels/Qt5QmlModelsConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Qml/Qt5QmlConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Qml/Qt5QmlConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Qml/Qt5Qml_QDebugMessageServiceFactory.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Qml/Qt5QmlConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Qml/Qt5QmlConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5PacketProtocol/Qt5PacketProtocolConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5PacketProtocol/Qt5PacketProtocolConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Qml/Qt5Qml_QLocalClientConnectionFactory.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Qml/Qt5Qml_QQmlDebugServerFactory.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Qml/Qt5Qml_QQmlDebuggerServiceFactory.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Qml/Qt5Qml_QQmlInspectorServiceFactory.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Quick/Qt5QuickConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Quick/Qt5QuickConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5QmlModels/Qt5QmlModelsConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5QmlModels/Qt5QmlModelsConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Qml/Qt5Qml_QQmlNativeDebugConnectorFactory.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Qml/Qt5Qml_QQmlNativeDebugServiceFactory.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Qml/Qt5Qml_QQmlPreviewServiceFactory.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Qml/Qt5Qml_QQmlProfilerServiceFactory.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Qml/Qt5Qml_QQuickProfilerAdapterFactory.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Qml/Qt5Qml_QTcpServerConnectionFactory.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Qml/Qt5QmlConfigExtras.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5VirtualKeyboard/Qt5VirtualKeyboard_QtVirtualKeyboardHangulPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5VirtualKeyboard/Qt5VirtualKeyboardConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5VirtualKeyboard/Qt5VirtualKeyboardConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5VirtualKeyboard/Qt5VirtualKeyboard_QtVirtualKeyboardOpenWnnPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5VirtualKeyboard/Qt5VirtualKeyboard_QtVirtualKeyboardPinyinPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5VirtualKeyboard/Qt5VirtualKeyboard_QtVirtualKeyboardTCImePlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5VirtualKeyboard/Qt5VirtualKeyboard_QtVirtualKeyboardThaiPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5ThemeSupport/Qt5ThemeSupportConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5ThemeSupport/Qt5ThemeSupportConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5WebSockets/Qt5WebSocketsConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5WebSockets/Qt5WebSocketsConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5AccessibilitySupport/Qt5AccessibilitySupportConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5AccessibilitySupport/Qt5AccessibilitySupportConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5WindowsUIAutomationSupport/Qt5WindowsUIAutomationSupportConfigVersion.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5WindowsUIAutomationSupport/Qt5WindowsUIAutomationSupportConfig.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"C:/msys64/mingw64/share/cmake-3.20/Modules/FindZLIB.cmake",
+		"C:/msys64/mingw64/share/cmake-3.20/Modules/SelectLibraryConfigurations.cmake",
+		"C:/msys64/mingw64/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake",
+		"C:/msys64/mingw64/share/cmake-3.20/Modules/FindPackageMessage.cmake",
+		"C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/mainwindow.qrc",
+		"C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/cmake/LargeFiles.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/source/Alerts.h",
+			"Mu",
+			"CAWN4ZDDTK/moc_Alerts.cpp",
+			null
+		],
+		[
+			"C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/source/FirmwareInfo.h",
+			"Mu",
+			"CAWN4ZDDTK/moc_FirmwareInfo.cpp",
+			null
+		],
+		[
+			"C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/source/PackageData.h",
+			"Mu",
+			"CAWN4ZDDTK/moc_PackageData.cpp",
+			null
+		],
+		[
+			"C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/source/Packaging.h",
+			"Mu",
+			"CAWN4ZDDTK/moc_Packaging.cpp",
+			null
+		],
+		[
+			"C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/source/aboutform.h",
+			"Mu",
+			"CAWN4ZDDTK/moc_aboutform.cpp",
+			null
+		],
+		[
+			"C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/source/mainwindow.h",
+			"Mu",
+			"CAWN4ZDDTK/moc_mainwindow.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/heimdall-frontend_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/heimdall-frontend_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_ACCESSIBILITY_SUPPORT_LIB",
+		"QT_CORE_LIB",
+		"QT_EVENTDISPATCHER_SUPPORT_LIB",
+		"QT_FONTDATABASE_SUPPORT_LIB",
+		"QT_GUI_LIB",
+		"QT_LARGEFILE_SUPPORT",
+		"QT_NO_DEBUG",
+		"QT_THEME_SUPPORT_LIB",
+		"QT_WIDGETS_LIB",
+		"QT_WINDOWSUIAUTOMATION_SUPPORT_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend",
+		"C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/libpit/source",
+		"C:/msys64/mingw64/qt5-static/include",
+		"C:/msys64/mingw64/qt5-static/include/QtWidgets",
+		"C:/msys64/mingw64/qt5-static/include/QtGui",
+		"C:/msys64/mingw64/qt5-static/include/QtCore",
+		"C:/msys64/mingw64/qt5-static/share/qt5/mkspecs/win32-g++",
+		"C:/msys64/mingw64/qt5-static/include/QtEventDispatcherSupport",
+		"C:/msys64/mingw64/qt5-static/include/QtFontDatabaseSupport",
+		"C:/msys64/mingw64/qt5-static/include/QtThemeSupport",
+		"C:/msys64/mingw64/qt5-static/include/QtAccessibilitySupport",
+		"C:/msys64/mingw64/qt5-static/include/QtWindowsUIAutomationSupport",
+		"C:/msys64/mingw64/include/c++/10.2.0",
+		"C:/msys64/mingw64/include/c++/10.2.0/x86_64-w64-mingw32",
+		"C:/msys64/mingw64/include/c++/10.2.0/backward",
+		"C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/10.2.0/include",
+		"C:/msys64/mingw64/include",
+		"C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed",
+		"C:/msys64/mingw64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/msys64/mingw64/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/msys64/mingw64/share/cmake-3.20/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/heimdall-frontend_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/CMakeFiles/heimdall-frontend_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/msys64/mingw64/qt5-static/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/CMakeFiles/heimdall-frontend_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/source/Alerts.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/source/FirmwareInfo.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/source/PackageData.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/source/Packaging.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/source/aboutform.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/source/main.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Src/toastedCoder/Samsung-Tablet-Upgrade-Heimdall/heimdall-frontend/source/mainwindow.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin_Import.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin_Import.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin_Import.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin_Import.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin_Import.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin_Import.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin_Import.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin_Import.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin_Import.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/msys64/mingw64/qt5-static/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin_Import.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

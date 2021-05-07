@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc libpit.a CMakeFiles/pit.dir/source/libpit.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe libpit.a
