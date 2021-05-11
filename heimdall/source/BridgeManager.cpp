@@ -563,12 +563,12 @@ bool BridgeManager::EndSession(bool reboot) const
 	bool success = SendPacket(endSessionPacket);
 	delete endSessionPacket;
 
-	if (!success)
-	{
-		Interface::PrintError("Failed to send end session packet!\n");
+	// if (!success)
+	// {
+	// 	Interface::PrintError("Failed to send end session packet!\n");
 
-		return (false);
-	}
+	// 	return (false);
+	// }
 
 	ResponsePacket *endSessionResponse = new ResponsePacket(ResponsePacket::kResponseTypeEndSession);
 	success = ReceivePacket(endSessionResponse);
@@ -1115,7 +1115,7 @@ bool BridgeManager::SendFile(FILE *file, unsigned int destination, unsigned int 
 				Interface::PrintError("Failed to receive file part response!\n");
 
 				if (filePartIndex == 0)
-{
+				{
 					// Hack
 					success = true;
 					receivedPartIndex = filePartIndex;

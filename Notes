@@ -1,0 +1,54 @@
+mb-tmd-dev:indi-core tbaker$ cmake -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_BUILD_TYPE=Debug /Users/tbaker/SOURCE/_ref/indi-1.9.0
+fatal: not a git repository (or any of the parent directories): .git
+-- CFITSIO not found.
+-- CFITSIO not found.
+-- Found libnova: /usr/local/lib/libnova.dylib
+-- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE)
+-- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE)
+-- Could NOT find the ogg and theora libraries (missing:  OGGTHEORA_ogg_LIBRARY OGGTHEORA_theoraenc_LIBRARY OGGTHEORA_theoradec_LIBRARY OGGTHEORA_ogg_INCLUDE_DIR OGGTHEORA_theora_INCLUDE_DIR)
+-- Found FFTW3: /usr/local/lib/libfftw3.dylib
+-- Found FFTW3: /usr/local/lib/libfftw3.dylib
+-- Could NOT find GTest (missing: GTEST_LIBRARY GTEST_INCLUDE_DIR GTEST_MAIN_LIBRARY)
+-- Could NOT find GMock (missing: GMOCK_LIBRARY GMOCK_INCLUDE_DIR)
+-- GTEST not found, not building unit tests
+-- The following REQUIRED packages have been found:
+
+ * Threads
+ * ZLIB
+ * Nova, A general purpose, double precision, Celestial Mechanics, Astrometry and Astrodynamics library, <http://libnova.sourceforge.net>
+   Provides INDI with astrodynamics library.
+ * USB1
+ * CURL
+ * GSL
+ * JPEG
+ * FFTW3
+
+-- The following OPTIONAL packages have not been found:
+
+ * PkgConfig
+ * OggTheora
+ * GTest
+ * GMock
+
+-- The following REQUIRED packages have not been found:
+
+ * CFITSIO, A library for reading and writing data files in FITS (Flexible Image Transport System) data format, <http://heasarc.gsfc.nasa.gov/fitsio/fitsio.html>
+   Provides INDI with FITS I/O support.
+
+CMake Error at /usr/local/Cellar/cmake/3.20.2/share/cmake/Modules/FeatureSummary.cmake:464 (message):
+  feature_summary() Error: REQUIRED package(s) are missing, aborting CMake
+  run.
+Call Stack (most recent call first):
+  CMakeLists.txt:2048 (feature_summary)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/tbaker/SOURCE/_ref/indi-1.9.0/build/indi-core/CMakeFiles/CMakeOutput.log".
+See also "/Users/tbaker/SOURCE/_ref/indi-1.9.0/build/indi-core/CMakeFiles/CMakeError.log".
+
+
+
+
+mb-tmd-dev:platform-tools-mac tbaker$ adb devices -l
+List of devices attached
+32041071ab85418b       device usb:338755584X product:klimtlteuc model:SAMSUNG_SM_T707A device:klimtlteatt transport_id:14
